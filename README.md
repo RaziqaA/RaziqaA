@@ -1,4 +1,4 @@
-![logo](https://github.com/RaziqaA/RaziqaA/blob/main/raz.jpg)
+
 
 <h1 align="center">Hi 👋, I'm SYEDA RAZIQA</h1>
 <h3 align="center"><u>A passionate Software Engineer From India</u></h3>
