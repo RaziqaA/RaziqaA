@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm SYEDA RAZIQA</h1>
 <h3 align="center"><u>A passionate Software Engineer From India</u></h3>
-<img align = "right" alt = "coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlkX96YAPP7Z1TLQ-zc9P4KvPuvCxAq-x7A&s">
+<img align = "right" alt = "coding" width = "300" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlkX96YAPP7Z1TLQ-zc9P4KvPuvCxAq-x7A&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raziqaa&label=Profile%20views&color=0e75b6&style=flat" alt="raziqaa" /> </p>
 
