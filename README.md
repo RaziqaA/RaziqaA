@@ -17,7 +17,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaziqaA](https://github.com/RaziqaA)
 
-- 📫  reach me Gmail **syedaraziqa07@gmail.com
+- 📫  reach me out via
+-  Gmail **syedaraziqa07@gmail.com <br>
    LinkedIn https://www.linkedin.com/in/syedaraziqa07**
 
 <h4 align = "left">Languages : </h4>
