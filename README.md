@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on innovative real time web development projects 
 
-- 🤝If you require assistance with frontend development projects,please feel free to reach out to me. I am available to help with your development needs and would be delighted to collaborate on your next project.
+- 🤝If you require assistance with development projects,please feel free to reach out to me. I am available to help with your development needs and would be delighted to collaborate on your next project.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaziqaA](https://github.com/RaziqaA)
 
