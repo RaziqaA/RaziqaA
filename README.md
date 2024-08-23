@@ -14,7 +14,7 @@
 
 - 📫  reach me out via
    Gmail **syedaraziqa07@gmail.com <br>
-   LinkedIn https://www.linkedin.com/in/syedaraziqa07**
+  My Activities Professionally on : LinkedIn https://www.linkedin.com/in/syedaraziqa07**
 
 <h4 align = "left">Languages : </h4>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
