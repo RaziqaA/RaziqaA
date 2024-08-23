@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning : Machine Learning
 
-- 👯<b> I’m looking to Collaborate On : Innovative Real time Web Development & ML projects </b>
-   
+- 👯<b> I’m looking to Collaborate On : Innovative Real time Web Development  <br> and 📈 Data science and machine learning </b>
+
 
 - 📫  reach me out via
    Gmail **syedaraziqa07@gmail.com <br>
