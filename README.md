@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning : Machine Learning
 
-- 👯 I’m looking to collaborate on : innovative real time web development & ML projects 
+- 👯<b> I’m looking to collaborate on : innovative real time web development & ML projects </b>
 
-- 👨‍💻 All of my projects are available at [https://github.com/RaziqaA](https://github.com/RaziqaA)
 
 - 📫  reach me out via
    Gmail **syedaraziqa07@gmail.com <br>
