@@ -3,7 +3,7 @@
 
    ![logo](https://github.com/RaziqaA/RaziqaA/blob/main/Personal_Branding.png)
 <h1 align="center">Hi 👋, <I> I'm <I>SYEDA RAZIQA</I></I></h1>
-<h3 align="center" ><u><I>  Coder  </I> </u></h3>
+<h3 align="center" ><u><I> A Passionate Learner  </I> </u></h3>
 <img align = "right" alt = "coding" width = "300" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlkX96YAPP7Z1TLQ-zc9P4KvPuvCxAq-x7A&s">
 
 
