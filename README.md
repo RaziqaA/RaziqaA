@@ -9,16 +9,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raziqaa&label=Profile%20views&color=0e75b6&style=flat" alt="raziqaa" /> </p>
 
 
-- 🔭 I’m currently working as an **Web development Intern @ProdigyInfotech**
+- 🌱 I’m currently learning : Machine Learning
 
-- 👯 I’m looking to collaborate on innovative real time web development projects 
-
-- 🤝If you require assistance with development projects,please feel free to reach out to me. I am available to help with your development needs and would be delighted to collaborate on your next project.
+- 👯 I’m looking to collaborate on : innovative real time web development & ML projects 
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaziqaA](https://github.com/RaziqaA)
 
 - 📫  reach me out via
--  Gmail **syedaraziqa07@gmail.com <br>
+   Gmail **syedaraziqa07@gmail.com <br>
    LinkedIn https://www.linkedin.com/in/syedaraziqa07**
 
 <h4 align = "left">Languages : </h4>
