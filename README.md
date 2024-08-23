@@ -16,7 +16,7 @@
    Gmail **syedaraziqa07@gmail.com <br>
   My Activities Professionally on : LinkedIn https://www.linkedin.com/in/syedaraziqa07**<br>
   
-   DESCRIPTION OF ME : I AM A FULL TIME LEARNER 
+- <b> DESCRIPTION OF ME : I AM A FULL TIME LEARNER </b>.
 
 <h4 align = "left">Languages : </h4>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
