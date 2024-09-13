@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning : Machine Learning
 
-- 👯<b> I’m looking to Collaborate On : Innovative Real time Web Development  <br> Devops and machine learning </b>
+- 👯<b> I’m looking to Collaborate On : Innovative Real time Web Development  <br> Devops and machine learning  Projects </b>
 
 
 - 📫  reach me out via
