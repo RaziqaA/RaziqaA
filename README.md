@@ -3,13 +3,13 @@
 
    ![logo](https://github.com/RaziqaA/RaziqaA/blob/main/Personal_Branding.png)
 <h1 align="center">Hi 👋, <I> I'm <I>SYEDA RAZIQA</I></I></h1>
-<h3 align="center" ><u><I> A Passionate Learner  </I> </u></h3>
+<h3 align="center" ><u><I> A Passionate Techie  </I> </u></h3>
 <img align = "right" alt = "coding" width = "300" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlkX96YAPP7Z1TLQ-zc9P4KvPuvCxAq-x7A&s">
 
 
 - 🌱 I’m currently learning : Machine Learning
 
-- 👯<b> I’m looking to Collaborate On : Innovative Real time Web Development  <br> Devops and machine learning  Projects </b>
+- 👯<b> I’m looking to Collaborate On : Innovative Real time Web Development  <br>  and Machine Learning  Projects </b>
 
 
 - 📫  Reach me out via
@@ -31,8 +31,8 @@
 
 
    
-<h4 align = "left">Frameworks:
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </h4>
+<h4 align = "left">Frameworks:</h4>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
    <h4 align = "left">Databases: </h4>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
