@@ -12,13 +12,14 @@
 - 👯<b> I’m looking to Collaborate On : Innovative Real time Web Development  <br> Devops and machine learning  Projects </b>
 
 
-- 📫  reach me out via
-   Gmail **syedaraziqa07@gmail.com <br>
-  My Activities Professionally on : LinkedIn https://www.linkedin.com/in/syedaraziqa07**<br>
+- 📫  Reach me out via
+   Gmail **syedaraziqa79@gmail.com <br>
+   
+  -Know More About me on : LinkedIn https://www.linkedin.com/in/syedaraziqa07**<br>
   
 - <b> DESCRIPTION OF ME IN ONE STATEMENT:  "<i>I</i> AM A FULL TIME LEARNER" </b>.
 
-<h4 align = "left">Languages : </h4>
+<h4 align = "left"> Programming Languages : </h4>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -30,8 +31,8 @@
 
 
    
-<h4 align = "left">Frameworks: </h4>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<h4 align = "left">Frameworks:
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </h4>
      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
    <h4 align = "left">Databases: </h4>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
