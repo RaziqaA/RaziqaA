@@ -2,12 +2,11 @@
 
 
    ![logo](https://github.com/RaziqaA/RaziqaA/blob/main/Personal_Branding.png)
-<h1 align="center">Hi 👋 <I>RAZIQA here</I></I></h1>
+<h1 align="center">Hi There👋 <I>SYEDA RAZIQA Here</I></I></h1>
 <h3 align="center" ><u><I> A Passionate Techie  </I> </u></h3>
 <img align = "right" alt = "coding" width = "300" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlkX96YAPP7Z1TLQ-zc9P4KvPuvCxAq-x7A&s">
 
 
-- 🌱 I’m currently learning : Machine Learning
 
 - 👯<b> I’m looking to Collaborate On : Innovative Real time Web Development  <br>  and Machine Learning  Projects </b>
 
@@ -16,8 +15,7 @@
    Gmail syedaraziqa79@gmail.com <br>
    
   -Know More About me on : LinkedIn https://www.linkedin.com/in/syedaraziqa07**<br>
-  
-- <b> DESCRIPTION OF ME IN ONE STATEMENT:  "<i>I</i> AM A FULL TIME LEARNER" </b>.
+
 
 <h4 align = "left"> Programming Languages : </h4>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -51,7 +49,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raziqaa&show_icons=true&locale=en&layout=compact" alt="raziqaa" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raziqaa&" alt="raziqaa" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raziqaa&show_icons=true&locale=en&layout=compact" alt="raziqaa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raziqaa&show_icons=true&locale=en" alt="raziqaa" /></p>
+
 
 **RaziqaA/RaziqaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
