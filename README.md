@@ -6,7 +6,7 @@
 <h3 align="center" ><u><I> A Passionate Techie  </I> </u></h3>
 <img align = "right" alt = "coding" width = "300" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlkX96YAPP7Z1TLQ-zc9P4KvPuvCxAq-x7A&s">
 
-<img align = "right" alt = "coding" width = "300" src = "https://www.freepik.com/free-photo/ai-site-helping-with-software-production_41673046.htm#page=6&query=coding%20gif&position=36&from_view=keyword&track=ais_hybrid&uuid=42cbd70b-3588-4dd1-b5eb-30205a7487e2">
+<img align = "right" alt = "coding" width = "300" src = "ai-site-helping-with-software-production (3).jpg2">
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=raziqaa&label=Profile%20views&color=0e75b6&style=flat" alt="raziqaa" /> </p>
 - 👯<b> I’m looking to Collaborate On : Innovative Real time Web Development  <br>  and Machine Learning  Projects </b>
 
