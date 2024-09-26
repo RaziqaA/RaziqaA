@@ -44,7 +44,6 @@
 <h3 align="Center">Connect with me via:</h3>
 <p align="Center">
 <a href="https://linkedin.com/in/syeda raziqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda raziqa" height="30" width="40" /></a>
-<a href="https://instagram.com/syeda_raziqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syeda_raziqa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raziqa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raziqa7" height="30" width="40" /></a>
 </p><br><br>
 
