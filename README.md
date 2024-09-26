@@ -46,14 +46,14 @@
 <a href="https://instagram.com/syeda_raziqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syeda_raziqa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raziqa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raziqa7" height="30" width="40" /></a>
 </p><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raziqaa&show_icons=true&locale=en&layout=compact" alt="raziqaa" /></p>
+//<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raziqaa&show_icons=true&locale=en&layout=compact" alt="raziqaa" /></p>
 
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raziqaa&show_icons=true&locale=en&layout=compact" alt="raziqaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raziqaa&show_icons=true&locale=en" alt="raziqaa" /></p>
+//<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raziqaa&show_icons=true&locale=en" alt="raziqaa" /></p>
 
 
 **RaziqaA/RaziqaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
