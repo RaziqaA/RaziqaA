@@ -6,13 +6,13 @@
 
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=raziqaa&label=Profile%20views&color=0e75b6&style=flat" alt="raziqaa" /> </p>
-- 👯<b> I’m looking to Collaborate On : Innovative Real time Web Development  <br>  and Machine Learning  Projects </b>
+<b> I’m looking to Collaborate On : Innovative Real time Web Development  <br>  and Machine Learning  Projects </b>
 
 
-- 📫  Reach me out via
+📫  Reach me out via
    Gmail syedaraziqa79@gmail.com <br>
    
-  -Know More About me on : LinkedIn https://www.linkedin.com/in/syedaraziqa07**<br>
+   Know More About me on LinkedIn :https://shorturl.at/ZbPsP<br>
 
 
 <h4 align = "left"> Programming Languages : </h4>
