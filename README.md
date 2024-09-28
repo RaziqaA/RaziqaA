@@ -5,15 +5,28 @@
 <h3 align="center" ><u><I> A Passionate Techie  </I> </u></h3>
 
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=raziqaa&label=Profile%20views&color=0e75b6&style=flat" alt="raziqaa" /> </p>
-<b> I’m looking to Collaborate On Innovative Real time Web Development  <br>  and Machine Learning  Projects </b>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=raziqaa&label=Profile%20views&color=0e75b6&style=flat" alt="raziqaa" /> </p><br>
+Aspiring Software Engineer and Machine Learning Engineer with a solid foundation in computer science and hands-on experience in developing innovative solutions through web development and machine learning.
 
+<hr> <br> 
 
-   Reach me out via
+<b> <>  I’m looking to Collaborate On Innovative Real time Web Development  <br>  and Machine Learning  Projects </b> <br>
+
+<b> <>  I  am  currently focused in problem Solving and DevOps </b>
+
+<b> <> I aspire to pursue a career as a Software Engineer or a Machine Learning Engineer </b> <br>
+
+<b> </b>
+<br>
+  <u> Reach me out on :</u> <br>
+
    
    Gmail syedaraziqa01@gmail.com <br>
+
    
-   Know More About me on LinkedIn :https://www.linkedin.com/in/syedaraziqa07/<br>
+   Know More About me on :
+   
+   LinkedIn :https://www.linkedin.com/in/syedaraziqa07/<br>
 
 
 <h4 align = "left"> Programming Languages : </h4>
