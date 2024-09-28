@@ -10,9 +10,10 @@
 
 
    Reach me out via
-   Gmail syedaraziqa79@gmail.com <br>
    
-   Know More About me on LinkedIn :https://shorturl.at/ZbPsP<br>
+   Gmail syedaraziqa01@gmail.com <br>
+   
+   Know More About me on LinkedIn :https://www.linkedin.com/in/syedaraziqa07/<br>
 
 
 <h4 align = "left"> Programming Languages : </h4>
