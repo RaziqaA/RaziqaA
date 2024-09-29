@@ -10,11 +10,11 @@ Aspiring Software Engineer and Machine Learning Engineer with a solid foundation
 
 <hr> <br> 
 
-<b> <>  I’m looking to Collaborate On Innovative Real time Web Development  <br>  and Machine Learning  Projects </b> <br>
+<b> >  I’m looking to Collaborate On Innovative Real time Web Development  <br>  and Machine Learning  Projects </b> <br>
 
-<b> <>  I  am  currently focused in problem Solving and DevOps </b>
+<b> >  I  am  currently focused in problem Solving and DevOps </b>
 
-<b> <> I aspire to pursue a career as a Software Engineer or a Machine Learning Engineer </b> <br>
+<b> > I aspire to pursue a career as a Software Engineer or a Machine Learning Engineer </b> <br>
 
 <b> </b>
 <br>
