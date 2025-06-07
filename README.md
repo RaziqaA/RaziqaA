@@ -6,15 +6,15 @@
 
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=raziqaa&label=Profile%20views&color=0e75b6&style=flat" alt="raziqaa" /> </p><br>
-Aspiring Software Engineer and Machine Learning Engineer with a solid foundation in computer science and hands-on experience in developing innovative solutions through web development and machine learning.
+Aspiring Software Engineer with a strong foundation in front-end development, specializing in building responsive web applications using HTML, CSS, JavaScript, and modern frameworks. Passionate about creating intuitive user interfaces and delivering seamless user experiences through clean, maintainable code.
 
 <hr> <br> 
 
-<b> >  I’m looking to Collaborate On Innovative Real time Web Development  <br>  and Machine Learning  Projects </b> <br>
+<b> >  I’m looking to Collaborate On Innovative Real time Web Development Projects </b> <br>
 
-<b> >  I  am  currently focused in problem Solving and DevOps </b>
+<b> >  I  am  currently focused in problem Solving and Learning Front End Frameworks </b>
 
-<b> > I aspire to pursue a career as a Software Engineer or a Machine Learning Engineer </b> <br>
+<b> > I aspire to pursue a career as a Software Engineer </b> <br>
 
 <b> </b>
 <br>
@@ -50,7 +50,7 @@ Aspiring Software Engineer and Machine Learning Engineer with a solid foundation
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <h4 align = "left">Tools and Technologies: </h4>
-   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <br>
 <br>
 <h3 align="Center">Connect with me via:</h3>
