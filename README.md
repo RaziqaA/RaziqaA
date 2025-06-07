@@ -21,7 +21,7 @@ Aspiring Software Engineer and Machine Learning Engineer with a solid foundation
   <u> Reach me out on :</u> <br>
 
    
-   Gmail syedaraziqa01@gmail.com <br>
+   Gmail syedaraziqa70@gmail.com <br>
 
    
    Know More About me on :
