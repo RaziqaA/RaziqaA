@@ -14,7 +14,7 @@ Aspiring Software Engineer with a strong foundation in front-end development, sp
 
 <b> >  I  am  currently focused in problem Solving and Learning Front End Frameworks </b>
 
-<b> > I aspire to pursue a career as a : a] Software Engineer <br> b] FrontEnd Engineer </b> <br>
+<b> > I aspire to pursue a career as a : <br> a] Software Engineer <br> b] FrontEnd Engineer </b> <br>
 
 <b> </b>
 <br>
