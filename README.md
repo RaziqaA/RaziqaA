@@ -55,7 +55,7 @@ Aspiring Software Engineer with a strong foundation in front-end development, sp
 <br>
 <h3 align="Center">Connect with me via:</h3>
 <p align="Center">
-<a href="https://shorturl.at/ZbPsP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda raziqa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syedaraziqa07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda raziqa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raziqa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raziqa7" height="30" width="40" /></a>
 </p><br><br>
 
